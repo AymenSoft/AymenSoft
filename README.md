@@ -1,1 +1,2 @@
-<img src="https://raw.githubusercontent.com/AymenSoft/AymenSoft/master/images/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/AymenSoft/AymenSoft/master/images/header.png">
+# About Me
